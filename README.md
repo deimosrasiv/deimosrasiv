@@ -1,5 +1,6 @@
 ### Mi nombre es Eduardo Rivas 👋
 #### Estudiante Desarrollador full-stack JavaScript 💻 actualmente en Soporte TI ♨️
+#### Un amante del deporte!!
 
 
 [![Caratula-01.jpg](https://i.postimg.cc/2SLs98gh/Caratula-01.jpg)](https://postimg.cc/5X1K6142)
