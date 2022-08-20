@@ -16,7 +16,8 @@ In each difficulty, there is an opportunity to learn something else!
 - I am currently learning Full Stack JavaScript
 - All my projects are available at https://github.com/deimosrasiv
 ___
-<p align="center"> <img align="center" src="https://profile-counter-glitch.me/Formandodev/count.svg"/></p>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/deimosrasiv/count.svg"/></P>
+
 
 
 
