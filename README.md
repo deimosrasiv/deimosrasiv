@@ -15,7 +15,7 @@ In each difficulty, there is an opportunity to learn something else!
 - I am currently working on Black 938.
 - I am currently learning Full Stack JavaScript
 - All my projects are available at https://github.com/deimosrasiv
-- https://deimosrasiv.github.io/
+- visit my resume https://deimosrasiv.github.io/
 ___
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/deimosrasiv/count.svg"/></P>
 
